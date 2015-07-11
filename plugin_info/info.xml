@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<info>
+    <id>mother</id>
+    <name>Mother</name>
+    <description>Plugin pour recevoir les données des cookies de Mother</description>
+    <icon>fa fa-play-circle</icon>
+    <licence>AGPL</licence>
+    <author>Frédéric Pottier</author>
+    <installation>Aucune</installation>
+    <require>1.10</require>
+    <version>1.0</version>
+    <category></category>
+</info>
