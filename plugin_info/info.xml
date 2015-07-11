@@ -3,7 +3,7 @@
     <id>mother</id>
     <name>Mother</name>
     <description>Plugin pour recevoir les données des cookies de Mother</description>
-    <icon>fa fa-play-circle</icon>
+    <icon>fa fa-female</icon>
     <licence>AGPL</licence>
     <author>Frédéric Pottier</author>
     <installation>Aucune</installation>
